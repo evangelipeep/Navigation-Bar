@@ -49,4 +49,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # Navigation-Bar
 
 <img src="https://img.shields.io/badge/React-ffe082?style=for-the-badge&logo=React&logoColor=828282" /> <img src="https://img.shields.io/badge/TypeScript-ffe082?style=for-the-badge&logo=TypeScript&logoColor=828282" /> <img src="https://img.shields.io/badge/Tailwind CSS-ffe082?style=for-the-badge&logo=Tailwind CSS&logoColor=828282" />
->>>>>>> 5bc145c9585efa82473ca1149b013144b99f5c77
